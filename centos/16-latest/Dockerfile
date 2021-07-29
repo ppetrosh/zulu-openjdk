@@ -1,1 +1,0 @@
-../../centos/16.0.2-16.32.15/Dockerfile
