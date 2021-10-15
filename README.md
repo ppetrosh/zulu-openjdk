@@ -1,11 +1,9 @@
 What is Azul Zulu?
 ======================================
 
-Azul Zulu builds of OpenJDK are fully tested and TCK compliant builds of OpenJDK for Linux, Windows, and macOS operating systems.
+Azul Zulu builds of OpenJDK are fully tested, and TCK compliant builds of OpenJDK for Linux, Windows, and macOS operating systems.
 
-Azul Zulu comes in two flavours: Azul Zulu Community Edition, a completely free version, and commercially supported Azul Zulu builds of OpenJDK.
-
-Check out [Azul Zulu Overview][3] for more information.
+Azul Zulu Builds of OpenJDK are available for free unlimited use and are commercially supported Azul as a part of the Azul Platform Core bundle. Check out [Azul Platform Core][3] for more information.
 
 Alpine, Centos, Debian, and Ubuntu Docker official images of Azul Zulu are available in the following repositories:
 
@@ -198,7 +196,7 @@ For Azul Zulu 11, run:
 
   [1]: https://www.azul.com/files/ZuluDocker60.gif
   [2]: https://www.azul.com/
-  [3]: https://www.azul.com/products/zulu-community/
+  [3]: https://www.azul.com/products/core/
   [4]: https://hub.docker.com/r/azul/zulu-openjdk-alpine
   [5]: https://hub.docker.com/r/azul/zulu-openjdk-centos
   [6]: https://hub.docker.com/r/azul/zulu-openjdk-debian
